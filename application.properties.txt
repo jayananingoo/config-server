@@ -1,0 +1,2 @@
+some.property=j1
+some.other.property=j2
